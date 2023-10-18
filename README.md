@@ -1,3 +1,6 @@
+# Try It with GitPod
+💻 [Quickly run this example on your browser](https://gitpod.io/#https://github.com/ed-marquez/hedera-tps-calculator-python/tree/main)
+
 # Hedera Transactions Per Second (TPS) Calculation
 
 This Python script (also provided in JavaScript - [see repo](https://github.com/ed-marquez/hedera-tps-calculator-js)) calculates the Transactions Per Second (TPS) for Hedera by analyzing data from the last few blocks.
