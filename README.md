@@ -1,5 +1,5 @@
 # Try It with GitPod
-💻 [Quickly run this example in your browser](https://gitpod.io/#https://github.com/ed-marquez/hedera-tps-calculator-python/tree/main)
+💻 [Quickly run this example in your browser](https://gitpod.io/#https://github.com/ed-marquez/hedera-tps-calculator-python)
 
 # Hedera Transactions Per Second (TPS) Calculation
 
